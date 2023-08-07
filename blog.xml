@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blog>
+    <post>
+        <title>First Blog Post</title>
+        <content>This is the content of the first blog post.</content>
+    </post>
+    <post>
+        <title>Second Blog Post</title>
+        <content>This is the content of the second blog post.</content>
+    </post>
+    <!-- Add more blog posts as needed -->
+</blog>

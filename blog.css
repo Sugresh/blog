@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 1rem;
+}
+
+.post-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 300px;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+/* Add more styles as needed */
